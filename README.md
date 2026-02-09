@@ -1,4 +1,6 @@
-##Adatbázis script
+#Adatbázis script
+-
+
 CREATE DATABASE schooldb;
 USE schooldb;
  
